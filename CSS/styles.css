@@ -8,7 +8,7 @@ body{background-color: whitesmoke ;}
 
 #welcome-heading {color: red;}
 span{
-    color: darkred;
+    color: red;
 }
 .unimportant {
     border: solid, 3px, black
