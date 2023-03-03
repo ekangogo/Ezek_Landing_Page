@@ -8,6 +8,8 @@ It contains:
  -  my brief BIO
  -  Link to my Resume
  -  Link to my Twitter handle
+ -  Link to my Facebook page
+ -  Link to my Linkedin page
 This project tests my basic HTML and CSS styling skills.
 It has been created usng VS Code on Ubuntu platform
 
